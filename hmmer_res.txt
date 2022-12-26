@@ -1,0 +1,27 @@
+56	ORF918	1	DONE	LamB	LamB porin	show
+57	ORF919	1	DONE	LamB	LamB porin	show
+94	ORF960	1	DONE	RecG_wedge	RecG wedge domain	show
+98	ORF965	1	DONE	DUF1454	Protein of unknown function (DUF1454)	show
+130	ORF1002	1	DONE	PTS_EIIB	phosphotransferase system, EIIB	show
+294	ORF1182	1	DONE	RNA_pol_Rpb6	RNA polymerase Rpb6	show
+295	ORF1183	1	DONE	HD_4	HD domain	show
+342	ORF1232	1	DONE	Xan_ur_permease	Permease family	show
+407	ORF1305	1	DONE	ADH_N	Alcohol dehydrogenase GroES-like domain	show
+28	ORF413	1	DONE	Glt_symporter	Sodium/glutamate symporter	show
+38	ORF423	1	DONE	ZapB	Cell division protein ZapB	show
+103	ORF495	1	DONE	GntR	Bacterial regulatory proteins, gntR family	show
+147	ORF543	1	DONE	TetR_N	Bacterial regulatory proteins, tetR family	show
+153	ORF550	1	DONE	ACR_tran	AcrB/AcrD/AcrF family	show
+154	ORF555	1	DONE	ACR_tran	AcrB/AcrD/AcrF family	show
+209	ORF621	1	DONE	F_bP_aldolase	Fructose-bisphosphate aldolase class-II	show
+215	ORF627	1	DONE	ROK	ROK family	show
+334	ORF760	1	DONE	FGGY_N	FGGY family of carbohydrate kinases, N-terminal domain	show
+335	ORF761	1	DONE	FGGY_N	FGGY family of carbohydrate kinases, N-terminal domain	show
+336	ORF763	1	DONE	FGGY_C	FGGY family of carbohydrate kinases, C-terminal domain	show
+115	ORF116	1	DONE	MFS_2	MFS/sugar transport protein	show
+118	ORF124	3	DONE	HTH_11	HTH domain	show
+253	ORF276	1	DONE	CMD	Carboxymuconolactone decarboxylase family	show
+260	ORF284	1	DONE	HTH_1	Bacterial regulatory helix-turn-helix protein, lysR family	show
+339	ORF370	1	DONE	PTS_EIIA_2	Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2	show
+345	ORF378	1	DONE	F_bP_aldolase	Fructose-bisphosphate aldolase class-II	show
+346	ORF379	1	DONE	F_bP_aldolase	Fructose-bisphosphate aldolase class-II	show
